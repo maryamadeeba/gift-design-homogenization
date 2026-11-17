@@ -1,0 +1,8 @@
+{
+  "model": "stabilityai/stable-diffusion-xl-base-1.0",
+  "steps": 30,
+  "guidance": 7.0,
+  "seed_rule": "BASE_SEED + id",
+  "base_seed": 1000,
+  "skipped": []
+}

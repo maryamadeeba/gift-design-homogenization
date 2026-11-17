@@ -1,0 +1,44 @@
+{
+  "model": "stabilityai/stable-diffusion-xl-base-1.0",
+  "steps": 30,
+  "guidance": 7.0,
+  "ai_category": {
+    "seed_rule": "3000 + id",
+    "prompts": {
+      "01": "A handmade gift basket, product photograph",
+      "02": "A gift arrangement in a clear acrylic box, product photograph",
+      "03": "A handmade gift basket, product photograph",
+      "04": "A handmade gift basket, product photograph",
+      "05": "A handmade gift bouquet, product photograph",
+      "06": "A handmade gift basket, product photograph",
+      "07": "A set of three small handmade gift bouquets, product photograph",
+      "08": "A set of three small handmade gift bouquets, product photograph",
+      "09": "A set of three small handmade gift bouquets, product photograph",
+      "10": "A handmade gift bouquet, product photograph",
+      "11": "A handmade gift basket, product photograph",
+      "12": "A handmade gift box, product photograph",
+      "13": "A handmade gift basket, product photograph",
+      "14": "A handmade gift basket, product photograph",
+      "15": "A gift arrangement in a clear acrylic box, product photograph",
+      "16": "A pair of handmade gift boxes, product photograph",
+      "17": "A handmade gift basket, product photograph",
+      "18": "A jewelry gift, product photograph",
+      "19": "A handmade gift box, product photograph",
+      "20": "A handmade gift card, product photograph",
+      "21": "A handmade gift basket, product photograph",
+      "22": "A pair of printed gift cushions, product photograph",
+      "23": "A handmade gift bouquet, product photograph",
+      "24": "A handmade gift box, product photograph",
+      "25": "A handmade gift card, product photograph",
+      "26": "A handmade gift basket, product photograph",
+      "27": "A small gift bag arrangement, product photograph",
+      "28": "A handmade gift bouquet, product photograph",
+      "29": "A decorated celebration cake gift tray, product photograph",
+      "30": "A handmade gift basket, product photograph"
+    }
+  },
+  "ai_open": {
+    "seed_rule": "2000 + id",
+    "prompt": "A handmade gift arrangement from a small gifting business, product photograph"
+  }
+}

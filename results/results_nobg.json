@@ -1,0 +1,66 @@
+{
+  "clip_model": "ViT-B-32-quickgelu (openai)",
+  "pair_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "n_pairs": 30,
+  "human": {
+    "vendi_score": 4.086736679077148,
+    "vendi_range_5_95": [
+      3.652748370170593,
+      4.078310918807984
+    ],
+    "mean_pairwise_distance": 0.2857036590576172,
+    "distance_range_5_95": [
+      0.27138085961341857,
+      0.2995149165391922
+    ]
+  },
+  "ai": {
+    "vendi_score": 4.350527763366699,
+    "vendi_range_5_95": [
+      3.909190845489502,
+      4.288630938529968
+    ],
+    "mean_pairwise_distance": 0.3004986643791199,
+    "distance_range_5_95": [
+      0.28898210227489474,
+      0.31220281720161436
+    ]
+  },
+  "vendi_gap_human_minus_ai": -0.2637910842895508,
+  "vendi_gap_p_value": 0.7614477104579084,
+  "distance_gap_human_minus_ai": -0.014795005321502686,
+  "distance_gap_p_value": 0.7486502699460108,
+  "mean_distance_to_matched_twin": 0.24567767977714539,
+  "mean_distance_ai_to_nearest_human": 0.18579953908920288
+}
